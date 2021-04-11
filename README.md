@@ -1,1 +1,1 @@
-# build.genshin.impact
+https://nostyastar.github.io/buildgenshinimpact.github.io/
